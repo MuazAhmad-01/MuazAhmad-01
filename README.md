@@ -7,17 +7,17 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 I am a passionate developer and researcher dedicated to building secure and intelligent software. With a background in **Cybersecurity** and **Artificial Intelligence**, I bridge the gap between robust system defense and advanced data-driven solutions.
 
-- 🔭 I’m currently leading the **Car Wheels Platform** project.
-- 🛡️ Specialized in **Network Security Audits** and vulnerability assessment.
-- 🧠 Deeply interested in **AI-driven healthcare** and **Real-time systems**.
-- 💬 Ask me about: **Python, React, Nmap, or Machine Learning**.
+-  I’m currently leading the **Car Wheels Platform** project.
+-  Specialized in **Network Security Audits** and vulnerability assessment.
+-  Deeply interested in **AI-driven healthcare** and **Real-time systems**.
+-  Ask me about: **Python, React, Nmap, or Machine Learning**.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
   <!-- Languages -->
@@ -39,7 +39,7 @@ I am a passionate developer and researcher dedicated to building secure and inte
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuazAhmad-01&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="GitHub Stats" />
@@ -49,7 +49,7 @@ I am a passionate developer and researcher dedicated to building secure and inte
 
 ---
 
-### 📂 Top Projects
+###  Top Projects
 
 - **[AI Nausea Prediction](https://github.com/MuazAhmad-01/Portfolio)**: Advanced ML model for physiological data analysis.
 - **[Network Security Audit](https://github.com/MuazAhmad-01/Portfolio)**: Automated vulnerability assessment using Nmap.
@@ -58,7 +58,7 @@ I am a passionate developer and researcher dedicated to building secure and inte
 
 ---
 
-### 📬 Connect With Me
+###  Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/muaxahmad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
