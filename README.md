@@ -1,4 +1,4 @@
-# 👨‍💻 Muaz Ahmad
+#  Muaz Ahmad
 ### Cybersecurity Expert | ML & DL Enthusiast | Software Developer
 
 <div align="center">
